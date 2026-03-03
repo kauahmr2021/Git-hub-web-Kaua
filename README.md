@@ -2,7 +2,7 @@
 Atividade prática GitHub Web
 # sobre
 ###
-sobre
+sobre a atividade do professor Cláudio
 # tecnologias
 ###
-tecno
+tecnologia e suas informações
